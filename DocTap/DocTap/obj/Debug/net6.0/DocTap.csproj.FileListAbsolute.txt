@@ -1,0 +1,15 @@
+E:\DocTap\DocTap\bin\Debug\net6.0\DocTap.exe
+E:\DocTap\DocTap\bin\Debug\net6.0\DocTap.deps.json
+E:\DocTap\DocTap\bin\Debug\net6.0\DocTap.runtimeconfig.json
+E:\DocTap\DocTap\bin\Debug\net6.0\DocTap.dll
+E:\DocTap\DocTap\bin\Debug\net6.0\DocTap.pdb
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.csproj.AssemblyReference.cache
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.GeneratedMSBuildEditorConfig.editorconfig
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.AssemblyInfoInputs.cache
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.AssemblyInfo.cs
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.csproj.CoreCompileInputs.cache
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.dll
+E:\DocTap\DocTap\obj\Debug\net6.0\refint\DocTap.dll
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.pdb
+E:\DocTap\DocTap\obj\Debug\net6.0\DocTap.genruntimeconfig.cache
+E:\DocTap\DocTap\obj\Debug\net6.0\ref\DocTap.dll
